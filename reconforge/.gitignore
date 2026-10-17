@@ -1,0 +1,6 @@
+subs/
+.env
+*.log
+*.tmp
+*.exe
+reconforge
